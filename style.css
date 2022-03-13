@@ -1,4 +1,13 @@
 /* Hide Youtube stuff */
-ytd-app #related, #end, #start, #info, #voice-search-button, #playlist-actions {
+ytd-app
+        #related,
+        #end,
+        #start,
+        #info-text,
+        #menu-container,
+        #voice-search-button,
+        #playlist-actions,
+        #search-icon-legacy,
+        #owner-sub-count {
     display: none !important;
 }
