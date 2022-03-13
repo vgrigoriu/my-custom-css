@@ -1,0 +1,4 @@
+/* Hide Youtube stuff */
+ytd-app #related, #end, #start, #info, #voice-search-button, #playlist-actions {
+    display: none !important;
+}
