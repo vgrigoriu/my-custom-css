@@ -11,3 +11,8 @@ ytd-app
         #owner-sub-count {
     display: none !important;
 }
+
+/* narrower Wikipedia */
+.mediawiki #bodyContent {
+    width: 40em;
+}
